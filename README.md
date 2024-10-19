@@ -32,11 +32,14 @@ Here’s what I bring to the table:
 ## 🚀 My Projects
 Here are a few of the projects I'm proud of:
 
+- **SQL Injection Exploit Project**: Created a banking dashboard system to demonstrate SQL injection vulnerabilities and secure coding practices. This project highlights the importance of web security in modern applications. 💻🔒
+
 - **Proactive Risk Management Strategies**: Assessed and mitigated security risks using the NIST framework, presenting findings at the Katz Research Symposium. 🎤
   
 - **CrackSploit Challenge**: Developed an interactive challenge to test cryptography skills, encouraging users to find and fix security flaws while having fun! 🔍
 
 - **Online Canteen Ordering System**: Led the development of a web-based ordering system, which significantly improved efficiency and reduced wait times by 30%. 🍔
+
 
 ## 🌟 Interests
 When I'm not busy with cybersecurity, you can find me:
